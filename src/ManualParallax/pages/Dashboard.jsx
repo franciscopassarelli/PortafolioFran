@@ -7,7 +7,7 @@ const Dashboard = () =>{
 
     return(
         
-            <div className="bgimg-1">
+            <div className="bgimg-1"> 
               <h2 className="Skills">Experiencias</h2>
 
               <section className="experience">
