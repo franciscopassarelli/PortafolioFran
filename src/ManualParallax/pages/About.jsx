@@ -6,7 +6,7 @@ import "../pages/About.css"
 import Card from "../pages/Card"
 import Data from "../Data"
 import Footer from "../pages/Footer"
-import { Outlet, Link } from 'react-router-dom';
+
 
 
 const About = () =>{
