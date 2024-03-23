@@ -81,7 +81,7 @@ padding: 0 200px;
 .title{
     
       background: radial-gradient(ellipse at center, rgba(58, 255, 255, 0.234), rgba(7, 92, 92, 0.475), rgba(0, 0, 0, 0.541), rgb(0, 0, 0)); /* Gradiente redondo */
-      padding: 20px; /*Espaciado interno */
+      padding: 20px; 
       text-align: center; /* Alinear contenido al centro */
       font-size: 20px; /* Tamaño de fuente */
       color: #ffffff; /* Color del texto */
@@ -447,7 +447,7 @@ hr{
 
  .button-container {
   display: flex;
-  flex-direction: row; /* Los botones se colocarán en fila */
+  flex-direction: row; 
   justify-content: center; /* Centra los botones horizontalmente */
   align-items: flex-start; /* Los botones se alinearán en la parte superior */
 }
