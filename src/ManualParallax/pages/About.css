@@ -1,0 +1,92 @@
+.Skills {
+  font-weight: 700;
+  text-align: center;
+  font-size: 100px; /* Tamaño de fuente */
+  font-family: "Arial", sans-serif; /* Fuente elegida */
+  background-image: linear-gradient(45deg, #ff0000, rgba(255, 85, 0, 0.734), #fff700); /* Gradiente de colores */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit (como Safari) */
+  background-clip: text;
+  color:transparent; /* Hacemos el color de texto transparente */
+  animation: fadeIn; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 4s; /* don't forget to set a duration! */
+
+}
+
+.Lenguajes{
+  text-align: center;
+   }
+.TitleParrafo{
+  background: radial-gradient(ellipse at center, rgba(0, 53, 53, 0.958), rgba(7, 92, 92, 0.777), rgba(0, 0, 0, 0.673), rgb(0, 0, 
+  0)); /* Gradiente redondo */
+     padding: 20px; /*Espaciado interno */
+     text-align: center; /* Alinear contenido al centro */
+     font-size: 20px; /* Tamaño de fuente */
+     color: #ffffff; /* Color del texto */
+     border-radius: 50px; /* Borde redondeado */
+     width: 100%; /* Ancho del cartel */
+     margin: 20px auto; /* Centrar el cartel horizontalmente y añadir margen */
+     line-height: 1.5; /* Altura de línea */
+   
+}
+
+.parrafo {
+  display: inline-block;
+  font-family: monospace;
+  font-size: 35px;
+  white-space: nowrap;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 35ch;
+  overflow: hidden;
+  
+  /* Animación para escribir el texto */
+  animation: typ 8s infinite, blink 1s infinite step-end alternate;
+}
+  
+@keyframes typ {
+  from {
+    width: 0;
+  }
+  to {
+    width: 35ch;
+  }
+}
+  
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+  
+
+.hr{
+  color: #e600b0;
+
+}
+
+
+
+h4.CuartosTitulos {
+  color: grey;
+  font-weight: 600;
+  text-decoration: underline; /* Esto agrega un subrayado al texto */
+  text-decoration-color:  #007aaef0; /* Cambia el color del subrayado a azul */
+  text-decoration-style: double; /* Cambia el estilo del subrayado a doble línea */
+}
+
+
+
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container{
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+

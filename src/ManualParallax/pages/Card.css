@@ -1,0 +1,23 @@
+.Card {
+  width: 250px;
+  border-radius: 20px;
+  box-shadow: 2px 2px 5px black;
+  background:linear-gradient( #b4021abc, #ab0042c5, #4a00abb9 );
+  padding: 10px;
+  text-align: center;
+  border: 2px solid rgb(65, 65, 65);
+  transition: transform 0.3s ease;
+}
+
+.imagenes {
+  width: 200px;
+  height: 170px; /* Establece una altura fija para las imágenes */
+  object-fit: cover; /* Ajusta la imagen dentro de su contenedor sin distorsionarla */
+}
+
+.Card:hover {
+  transform: scale(1.1);
+  color: rgb(198, 198, 198);
+}
+
+

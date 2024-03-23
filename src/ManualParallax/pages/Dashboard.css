@@ -1,0 +1,440 @@
+/* Estilos para la barra de desplazamiento en navegadores webkit */
+.experience::-webkit-scrollbar {
+  width: 15px; /* Ancho de la barra de desplazamiento */
+}
+
+.experience::-webkit-scrollbar-thumb {
+  background-color: #555; /* Color del "palo" de la barra de desplazamiento */
+  border-radius: 10px; /* Borde redondeado del "palo" */
+}
+
+
+.experience {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fafafadc;
+  border-radius: 10px;
+  /* Aumentamos el grosor del borde */
+  border: 3px solid #333;
+  /* Agregamos scroll interno */
+  max-height: 600px; /* ajusta la altura máxima según lo necesites */
+  overflow: auto; /* agrega el scroll vertical y horizontal */
+  /* Cambiamos el cursor del mouse a una mano */
+  cursor: pointer;
+}
+
+.experience h2 {
+  margin-bottom: 20px;
+}
+
+.experience ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; /* Quitamos el margen para evitar que haya espacio adicional */
+}
+
+.experience li {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc; /* Añadimos una línea divisoria entre cada experiencia */
+  padding-bottom: 20px; /* Añadimos espacio entre cada experiencia */
+}
+
+.date {
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.job-info h3 {
+  margin: 5px 0;
+  color: #0c3d71d3;
+}
+
+.job-info p {
+  margin: 5px 0;
+}
+
+
+
+.box {
+    /* Estilos para la caja o sección */
+    background-color: rgba(4, 114, 169, 0.915);
+    border: 1px solid #333; /* Borde sólido oscuro */
+    padding: 20px; /* Espaciado interno */
+    width: 300px; /* Ancho de la caja */
+  }
+
+  .box h2 {
+    /* Estilos para el título dentro de la caja */
+    font-size: 24px; /* Tamaño de fuente */
+    margin-bottom: 10px; /* Espaciado inferior */
+    text-align: center; /* Alineación del texto al centro */
+  }
+
+  .box p {
+    /* Estilos para el párrafo dentro de la caja */
+    font-size: 16px; /* Tamaño de fuente */
+    color: aliceblue;
+    line-height: 1.6; /* Altura de línea */
+    text-align: justify; /* Justificar el texto */
+  }
+
+
+  .container {
+    max-width: 800px; /* Ancho máximo del contenedor */
+    margin: 20px auto; /* Margen superior e inferior automático y 20px a la izquierda y derecha */
+    padding: 20px; /* Espaciado interno del contenedor */
+    background-color: #d8d8d8d0; /* Color de fondo del contenedor */
+    border-radius: 10px; /* Bordes redondeados */
+    border: 3px solid #333; /* Borde sólido */
+  }
+  
+  .Ofrezco {
+    text-align: center; /* Alineación del texto al centro */
+    margin-bottom: 20px; /* Margen inferior */
+  }
+  
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  p {
+    margin-bottom: 20px; /* Espaciado inferior entre párrafos */
+  }
+  
+  .btn {
+    display: block; /* Convertimos el botón en un bloque para que ocupe todo el ancho */
+    margin: 0 auto; /* Centramos el botón */
+    background-color: #007bff; /* Color de fondo del botón */
+    color: #fff; /* Color del texto del botón */
+    border: none; /* Quitamos el borde */
+    border-radius: 5px; /* Bordes redondeados */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    font-size: 16px; /* Tamaño de fuente */
+    cursor: pointer; /* Cambiamos el cursor a una mano al pasar sobre el botón */
+  }
+  
+  .btn:hover {
+    background-color: #0056b3; /* Color de fondo del botón al pasar el cursor */
+  }
+  
+
+
+
+
+
+/* Estilos para el contenido del modal */
+.modal-content {
+  background-color: #000000c5; /* Fondo del modal */
+  border-radius: 10px; /* Bordes redondeados */
+  border: 3px solid #4e4d4d; /* Borde sólido */
+  color: #c8c8c8; /* Color del texto */
+  width: 90%; /* Ancho del contenido del modal */
+  max-width: 800px; /* Ancho máximo del contenido del modal */
+}
+
+/* Ajustamos el tamaño de la ventana modal */
+.modal-dialog {
+  max-width: 90%; /* Ancho máximo de la ventana modal */
+  margin: auto; /* Centramos la ventana modal horizontalmente */
+  display: flex; /* Usamos flexbox para centrar verticalmente */
+  align-items: center; /* Centramos verticalmente */
+  justify-content: center; /* Centramos horizontalmente */
+}
+
+/* Estilos para el botón de cierre del modal */
+.btn-close {
+  color: #c2c2c2; /* Color del botón de cierre */
+  font-size: 1.5rem; /* Tamaño de fuente del botón de cierre */
+  opacity: 0.5;  /* Ajustamos la opacidad para que sea visible */
+}
+
+/* Estilos para el contenido adicional dentro del modal */
+.modal-body p {
+  margin-bottom: 20px; /* Espaciado inferior entre párrafos */
+}
+
+/* Ajustamos el estilo del botón dentro del modal */
+.modal-body .btn {
+  background-color: #3e00f75b; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  border: none; /* Quitamos el borde */
+  border-radius: 5px; /* Bordes redondeados */
+  text-decoration: none; /* Quitamos la subrayado del texto */
+  font-size: 1rem; /* Tamaño de fuente */
+}
+
+/* Cambiamos el color de fondo del botón al pasar el cursor */
+.modal-body .btn:hover {
+  background-color: #4900dae0; /* Color de fondo del botón al pasar el cursor */
+}
+
+
+/*comienzo de animación de Proyectos*/
+@keyframes textFadeInOut {
+  0%, 100% {
+    opacity: 0;
+    content: "Texto 1";
+  }
+  25% {
+    opacity: 1;
+    content: "Texto 2";
+  }
+  50% {
+    opacity: 1;
+    content: "Texto 3";
+  }
+  75% {
+    opacity: 1;
+    content: "Texto 4";
+  }
+}
+.Titulo3 {
+  font-family: monospace;
+  font-size: 60px;
+  text-align: center;
+  background-image: linear-gradient(45deg, #0075e9, hsl(0, 0%, 98%)); /* Gradiente de colores */
+  -webkit-background-clip: text; /* Para navegadores basados en WebKit (como Safari) */
+  background-clip: text;
+  color: transparent; /* Hacemos el color de texto transparente */
+  animation: textFadeInOut infinite; /* Aplica la animación y haz que se repita infinitamente */
+  animation-duration: 16s; /* 4 etapas x 4 segundos cada una = 16 segundos */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Agrega una sombra al texto */
+}
+
+
+/*fin de animacion de proyectos/*
+
+
+
+/* css code */
+
+.Cuerpo{
+	
+	min-height: 90vh;
+	display: grid;
+	place-items: center;
+  border: #ffffff;
+  
+	
+}
+
+.slider{
+	
+	height: 350px;
+	margin: auto;
+	position: relative;
+	width: 100%;
+	display: grid;
+	place-items: center;
+	overflow: hidden;
+  background-color: #31313185;
+	
+  
+}
+
+
+
+.slide-track{
+	
+	display: flex;
+	width: calc(350px * 18);
+	animation: scroll 40s linear infinite;
+  
+	
+	
+}
+
+
+.slide-track:hover{
+	animation-play-state: paused;
+}
+
+
+@keyframes scroll{
+	
+	0%{
+		transform: translateX(0);
+	}
+	100%{
+		transform: translateX(calc(-350px * 9));
+	}
+}
+
+
+.slide{
+	height: 200px;
+	width: 350px;
+	display: flex;
+	align-items: center;
+	padding: 15px;
+	perspective: 100px;
+
+}
+	
+
+img{
+  
+
+	width: 100%;
+	transition: transform 1s;
+
+	
+}
+
+
+img:hover{
+	transform: translateZ(20px);
+  
+  
+  
+	
+
+	
+}
+
+
+
+
+
+
+
+
+
+/*estilos de cada card del H4*/
+
+.Cards1 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+  
+}
+.LogoReact{
+  width: 100px;
+  padding: auto;
+}
+
+.Cards2 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+}
+
+
+.Cards3 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin-left: 850px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+}
+
+
+
+.Cards4 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin:20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+}
+
+.Cards5 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+}
+.Cards6 {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 18rem;
+  background-color: #303030;
+}
+
+/*Fin de los estilos*/
+
+
+
+
+
+/*comienzo de estilos globales de cada card del H4*/
+.Cards-body {
+  text-align: left;
+  
+}
+
+.Cards.text-center .Cursos-body {
+  text-align: center;
+}
+
+.Cards.text-end .Cursos-body {
+  text-align: right;
+}
+
+.Cards-title {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #b9b5b5;
+}
+
+.Cards-text {
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #3e00f75b;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: #4900dae0;
+}
+
+/*fin de estilos/*
+
+
+
