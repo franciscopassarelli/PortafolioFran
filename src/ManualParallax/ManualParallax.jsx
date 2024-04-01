@@ -19,17 +19,17 @@ function ManualParallax() {
 
 
 
-            <div class="card mb-3">
-              <div class="row g-0">
-                <div class="col-md-4">
-                  <img src="https://avatars.githubusercontent.com/u/118229728?v=4" class="img-fluid rounded-start" alt="..." />
+            <div className="card mb-3">
+              <div className="row g-0">
+                <div className="col-md-4">
+                  <img src="https://avatars.githubusercontent.com/u/118229728?v=4" className="img-fluid rounded-start" alt="..." />
                 </div>
-                <div class="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Hola! Soy Francisco Nicolás Passarelli</h5>
+                <div className="col-md-8">
+                  <div className="card-body">
+                    <h5 className="card-title">Hola! Soy Francisco Nicolás Passarelli</h5>
                     <br />
-                    <p class="card-text">Tengo 28 años y soy de Buenos Aires, Argentina. Actualmente estudiando Programacion Full Stack, trabajando en mis proyectos y creciendo en este mundo tecnologico que tanto me apasiona.</p>
-                    <p class="card-text"><small class="text-muted">Perfil actualizdo hace 1 semana.</small></p>
+                    <p className="card-text">Tengo 28 años y soy de Buenos Aires, Argentina. Actualmente estudiando Programacion Full Stack, trabajando en mis proyectos y creciendo en este mundo tecnologico que tanto me apasiona.</p>
+                    <p className="card-text"><small class="text-muted">Perfil actualizdo hace 1 semana.</small></p>
                   </div>
                 </div>
               </div>
