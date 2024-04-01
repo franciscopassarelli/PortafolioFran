@@ -5,6 +5,7 @@ import React, { useState } from 'react';
 import { Outlet, Link } from 'react-router-dom';
 const Home = () =>{
 
+  
   const [urls, setUrls] = useState({
     linkedin: 'https://www.linkedin.com/in/franciscopassarelli/',
     cv: 'https://drive.google.com/file/d/1ajpMmsQRDAKbKSr4hwWk-EhKAoPNSG9p/view?usp=sharing',
@@ -136,23 +137,16 @@ Francisco Nicolás Passarelli</p></div>
  <li>
    <Link to="/">volver al inicio</Link>
  </li>
-   <li><Link to="/about">Skills</Link>
+   <li><Link to="/About">Skills</Link>
    </li>
-   <li><Link to="dashboard">Experiencia</Link>
+   <li><Link to="/Dashboard">Experiencia</Link>
    </li>
  </ul>
  <Outlet/>
              </div>
              <div className="col-umn">
-               <h3>Contactáme<div className="underline"><span></span></div></h3>
-           <form>
-           <i class="material-symbols-outlined">
-         mail
-         </i>
+               <h3>Redes y Otros<div className="underline"><span></span></div></h3>
          
-             <input type="email" placeholder="Enter your email id" required />
-           <i type="submit" className="material-symbols-outlined">Login</i>
-           </form>
            
            <div className="social-icons">
              <i className="fab fa-whatsapp"></i>

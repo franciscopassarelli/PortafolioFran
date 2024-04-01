@@ -281,7 +281,6 @@
 	perspective: 100px;
 
 }
-	
 
 img{
   
@@ -435,5 +434,23 @@ img:hover{
 }
    
 
+.small-submit-button {
+  padding: 10px 5px;
+  font-size: 20px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
 
 
+.notificacion{
+  font-weight: bolder ;
+  color: rgb(133, 244, 7);
+  padding: 30px;
+  text-align: center;
+}
+.notificacionArea{
+  background-color: #2e2aa7c6; /* Color de fondo verde */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Sombra */
+}

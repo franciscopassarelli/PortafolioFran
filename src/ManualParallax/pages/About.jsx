@@ -3,9 +3,9 @@
 
 
 import "../pages/About.css"
-import Card from "../pages/Card"
+import Card from "./Card"
 import Data from "../Data"
-import Footer from "../pages/Footer"
+import Footer from "./Footer"
 
 
 

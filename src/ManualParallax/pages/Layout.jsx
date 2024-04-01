@@ -1,4 +1,3 @@
-
 import { Outlet, Link } from 'react-router-dom';
 
 
@@ -12,16 +11,17 @@ const Layout = ()=>{
 
 <header className="navbar">
 <nav className="navbar-nav">
-  
   <ul>
+
+  
     <li>
       <Link to="/">Sobre Mi</Link>
     </li>
 
-    <li><Link to="/about">Skills</Link>
+    <li><Link to="/About">Skills</Link>
     </li>
 
-    <li><Link to="dashboard">Experiencia</Link>
+    <li><Link to="/Dashboard">Experiencia</Link>
     </li>
     
   </ul>

@@ -3,7 +3,7 @@ import '../ManualParallax.css';
 import React, { useState } from 'react';
 
 import { Outlet, Link } from 'react-router-dom';
-const Home = () =>{
+const Default = () =>{
 
   const [urls, setUrls] = useState({
     linkedin: 'https://www.linkedin.com/in/francisco-passarelli-287b5326b/',
@@ -178,4 +178,4 @@ Francisco Nicolás Passarelli</p></div>
 
 }
 
-export default Home
+export default Default

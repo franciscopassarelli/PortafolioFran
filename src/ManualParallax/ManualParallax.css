@@ -92,35 +92,70 @@ padding: 0 200px;
     
     
   }
+/* Estilos para la barra de navegación */
+.navbar {
+  background-color: #000000; /* Cambia el color de fondo */
+  padding: 20px 30px; /* Ajusta el espacio interno */
+  border-bottom: 2px solid #fff;
+  animation: borderChange 5s infinite;
+}
+
+.navbar-nav ul {
+  list-style-type: none; /* Elimina los puntos de la lista */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Para alinear los elementos en línea */
+  justify-content: center; 
+   }
+
+.navbar-nav li{  
+  margin-right: 70px; /* Ajusta el espacio entre elementos */
+}
+
+.navbar-nav li:last-child {
+  margin-right: 0; /* Elimina el margen derecho del último elemento */
+}
+
+.navbar-nav li a {
+  color: #fff; /* Cambia el color del texto */
+  text-decoration: none; /* Elimina el subrayado del enlace */
+  font-weight: bold; /* Opcional: establece negrita */
+  transition: color 0.8s; /* Agrega transición al cambio de color */
+}
+
+.navbar-nav li a:hover {
+  color: #05fbe790; /* Cambia el color del texto al pasar el cursor */
+}
 
 
-  .navbar {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 18px;
-    background: linear-gradient(rgb(0, 94, 108), rgb(10, 94, 111), rgb(2, 44, 62));
-  }
-  
 
-  
-  .navbar-nav ul {
-    display: flex;
-    justify-content: center;
-    list-style: none;
+@keyframes borderChange {
+  0% {
+    border-color: #ff0077; /* Color inicial */
   }
-  
-  .navbar-nav ul li {
-    margin: 0 40px;
+  25% {
+    border-color: #0331ff; /* Primer color intermedio */
   }
-  
-  .navbar-nav ul li a {
-    text-decoration: none;
-    color: #292929;
-    font-weight: bold;
-    padding: 10px;
+  50% {
+    border-color: #00ddff; /* Segundo color intermedio */
   }
-  
+  75% {
+    border-color: #aa00ff; /* Tercer color intermedio */
+  }
+  100% {
+    border-color: #ff8400; /* Color final */
+  }
+}
+
+.navbar {
+  background-color: #000000; /* Cambia el color de fondo */
+  padding: 20px 30px; /* Ajusta el espacio interno */
+  border-bottom: 3px solid #fff; /* Agrega un borde en la parte inferior */
+  animation: borderChange 10s infinite; /* Aplica la animación al borde */
+}
+
+
+
   .transparente{
     background-color: rgba(255, 64, 0, 0.112);
   }
