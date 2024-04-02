@@ -113,7 +113,7 @@ en
            <footer className="FooterRowsHome">
            <div className="FooterRow">
              <div className="col-umn">
-             <img src="src/assets/msj.png" className="logo"/>
+             <img src="https://c0.klipartz.com/pngpicture/391/694/gratis-png-logo-de-la-aplicacion-de-mensajes-correo-electronico-del-iphone-iconos-de-computadora-correo-electronico.png" className="logo"/>
                <p>Gracias por su tiempo y consideración. Quedo a la espera de sus noticias.
 
 Saludos cordiales,

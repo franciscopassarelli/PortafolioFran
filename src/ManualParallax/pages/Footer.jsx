@@ -36,7 +36,7 @@ const Footer = () => {
     <footer className="FooterRows">
       <div className="FooterRow">
         <div className="col-umn">
-          <img src="https://w7.pngwing.com/pngs/851/106/png-transparent-computer-icons-email-telephone-website-miscellaneous-blue-angle-thumbnail.png" className="logo" />
+          <img src="https://c0.klipartz.com/pngpicture/391/694/gratis-png-logo-de-la-aplicacion-de-mensajes-correo-electronico-del-iphone-iconos-de-computadora-correo-electronico.png" className="logo" />
           <p>Gracias por su tiempo y consideración. Quedo a la espera de sus noticias.</p>
           <p>Saludos cordiales,</p>
           <p>Francisco Nicolás Passarelli</p>

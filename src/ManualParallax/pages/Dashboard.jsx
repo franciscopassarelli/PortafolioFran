@@ -98,7 +98,7 @@ const Dashboard = () =>{
         <div className="container">
     <h2 className="Ofrezco">Qué ofrezco?</h2>
     <div className="clearfix">
-        <img src="src/assets/frontend.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..."/>
+        <img src="https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..."/>
         
         <p>Tengo la facilidad de adaptarme a distintas circunstancias para que el producto final sea lo que realmente espere el cliente y amigable al usuario.</p>
         
@@ -155,80 +155,80 @@ const Dashboard = () =>{
 <div className="slide-track">
 <div className="slide">
   
-<a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="src/assets/Lista-crud.png"/></a>
+<a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp"/></a>
 </div>
 
 <div className="slide">
-<a href="https://next-aplication-five.vercel.app/"><img src="src/assets/Burguerbeer.png"/></a>
+<a href="https://next-aplication-five.vercel.app/"><img src="https://images.creativemarket.com/0.1.0/ps/7135788/3508/2482/m1/fpnw/wm0/burgerbeer-.jpg?1571076506&s=e0eb9c3a694c596fc3b8a97148b883e4"/></a>
 </div>
   <div className="slide">
-    <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+    <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
   </div>
   <div className="slide">
-  <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+  <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
   </div>
   <div className="slide">
   
-<a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="src/assets/Lista-crud.png"/></a>
+<a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp"/></a>
 </div>
 
 <div className="slide">
-<a href="https://next-aplication-five.vercel.app/"><img src="src/assets/Burguerbeer.png"/></a>
+<a href="https://next-aplication-five.vercel.app/"><img src="https://images.creativemarket.com/0.1.0/ps/7135788/3508/2482/m1/fpnw/wm0/burgerbeer-.jpg?1571076506&s=e0eb9c3a694c596fc3b8a97148b883e4"/></a>
 </div>
   <div className="slide">
-    <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+    <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
   </div>
   <div className="slide">
-  <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+  <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
   </div>
   <div className="slide">
   
-  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="src/assets/Lista-crud.png"/></a>
+  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp"/></a>
   </div>
   
   <div className="slide">
-  <a href="https://next-aplication-five.vercel.app/"><img src="src/assets/Burguerbeer.png"/></a>
+  <a href="https://next-aplication-five.vercel.app/"><img src="https://images.creativemarket.com/0.1.0/ps/7135788/3508/2482/m1/fpnw/wm0/burgerbeer-.jpg?1571076506&s=e0eb9c3a694c596fc3b8a97148b883e4"/></a>
   </div>
     <div className="slide">
-      <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+      <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
     </div>
     <div className="slide">
-    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
     </div>
 
     <div className="slide">
   
-  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="src/assets/Lista-crud.png"/></a>
+  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp"/></a>
   </div>
   
   <div className="slide">
-  <a href="https://next-aplication-five.vercel.app/"><img src="src/assets/Burguerbeer.png"/></a>
+  <a href="https://next-aplication-five.vercel.app/"><img src="https://images.creativemarket.com/0.1.0/ps/7135788/3508/2482/m1/fpnw/wm0/burgerbeer-.jpg?1571076506&s=e0eb9c3a694c596fc3b8a97148b883e4"/></a>
   </div>
     <div className="slide">
-      <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+      <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
     </div>
     <div className="slide">
-    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
     </div>
     <div className="slide">
   
-  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="src/assets/Lista-crud.png"/></a>
+  <a href="https://franciscopassarelli.github.io/Lista-CRUD/"><img src="https://www.codestoresolutions.com/wp-content/uploads/2023/08/crud.webp"/></a>
   </div>
   
   <div className="slide">
-  <a href="https://next-aplication-five.vercel.app/"><img src="src/assets/Burguerbeer.png"/></a>
+  <a href="https://next-aplication-five.vercel.app/"><img src="https://images.creativemarket.com/0.1.0/ps/7135788/3508/2482/m1/fpnw/wm0/burgerbeer-.jpg?1571076506&s=e0eb9c3a694c596fc3b8a97148b883e4"/></a>
   </div>
     <div className="slide">
-      <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+      <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
     </div>
     <div className="slide">
-    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
     </div>
  <div className="slide">
-      <a href="https://next-aplication-henna.vercel.app/"><img src="src/assets/Franntenis.png"/></a>
+      <a href="https://next-aplication-henna.vercel.app/"><img src="https://i.pinimg.com/736x/16/17/a8/1617a835e88f317f90c7e0eb8ffcd4ee.jpg"/></a>
     </div>
     <div className="slide">
-    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="src/assets/Sofishop.png"/></a>
+    <a href="https://franciscopassarelli.github.io/Sofi-Shop/"><img src="https://img.freepik.com/vector-premium/idea-diseno-logotipo-tienda-ropa-linea-logotipo-tienda-linea_272744-653.jpg?w=360"/></a>
     </div>
 
 </div>
@@ -252,7 +252,7 @@ const Dashboard = () =>{
 <div className="Cards1">
   <div className="Cards-body">
     <h5 className="Cards-title">Desarrollo Web</h5>
-    <img className="LogoReact" src="src/assets/html5cert.png" alt="" />
+    <img className="LogoReact" src="https://e1.pxfuel.com/desktop-wallpaper/158/292/desktop-wallpaper-abstract-css-html5-webdesign-css3-html-5-cinema4d-css.jpg" alt="desarrolloweb" />
     <p className="Cards-text">Curso de Desarrollo Web. Terminado en Coderhouse.</p>
     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/certificados/63bb35ea42b70c000ed7b5cc?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
@@ -262,7 +262,7 @@ const Dashboard = () =>{
 <div className="Cards2 text-center">
   <div className="Cards-body">
     <h5 className="Cards-title">JavaScript</h5>
-    <img className="LogoReact" src="src/assets/javascriptcert.jpg" alt="" />
+    <img className="LogoReact" src="https://e1.pxfuel.com/desktop-wallpaper/401/768/desktop-wallpaper-of-javascript-javascript-thumbnail.jpg" alt="javscript" />
     <p className="Cards-text">Curso de JavaScript terminado en Coderhouse.</p>
     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/certificados/642729ec59ceb90002240e1c?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
@@ -272,7 +272,7 @@ const Dashboard = () =>{
 <div className="Cards3 text-end">
   <div className="Cards-body">
     <h5 className="Cards-title">React Js</h5>
-    <img className="LogoReact" src="src/assets/reactlogo.png" alt="" />
+    <img className="LogoReact" src="https://frontendmasters.com/static-assets/learn/og-learning-path-react.jpg" alt="react" />
     <p className="Cards-text">Curso de React js. Terminado en Coderhouse.</p>
     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/certificados/65129b676ab3ebeeffec9116?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
@@ -284,7 +284,7 @@ const Dashboard = () =>{
 <div className="Cards4">
   <div className="Cards-body">
     <h5 className="Cards-title">Desarrollo Front-End</h5>
-    <img className="LogoReact" src="src/assets/fron-end-developer.jpg" alt="" />
+    <img className="LogoReact" src="https://worksolutions.ru/uploads/Ux_BYD_Uf_B_Nl9_Rf_D5r6w_M_Dv_A_Wke3m_G_Tf_Za_Dcm_HGZ_Wc_67283f7901.png" alt="frontend" />
     <p className="Cards-text">Carrera Desarrollo Front-end React JS</p>
     <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/certificados/65129b676ab3eb10b2ec9119?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
@@ -295,7 +295,7 @@ const Dashboard = () =>{
 <div className="Cards5 text-center">
   <div className="Cards-body">
     <h5 className="Cards-title">Next JS</h5>
-    <img className="LogoReact" src="src/assets/next.jpg" alt="" />
+    <img className="LogoReact" src="https://www.hanbit.co.kr/data/cms/CMS7641364152_thumb.jpg"alt="" />
     <p className="Cards-text">Curso de Next JS</p>
     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/ar/certificados/65fa24ddf9726556c0a1e6fd?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
@@ -305,7 +305,7 @@ const Dashboard = () =>{
 <div className="Cards6 text-end">
   <div className="Cards-body">
     <h5 className="Cards-title">Testing QA Manual</h5>
-    <img className="LogoReact" src="src/assets/testing-qa-manual.jpg" alt="" />
+    <img className="LogoReact" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/256971609/original/309c746e3534d372621bfd6d9b6431ceaf4713f9/do-functional-testing-of-website-and-mobile-applications.png" alt="QA" />
     <p className="Cards-text">Curso de Testing QA Manual</p>
     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
     <a href="https://www.coderhouse.com/ar/certificados/654193484519cff341d64b4b?lang=es"target="_blank" className="btn btn-primary">Ver certificado</a>
